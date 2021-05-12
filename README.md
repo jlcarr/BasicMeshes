@@ -12,6 +12,16 @@ The process I went through was:
 3. Import the .stl file into FreeCAD
 4. Export the geometry from FreeCAD to .obj
 
+### Meshes Available
+- Ramp
+- Staircase
+- Thin Staircase
+
+### File Formats Available
+- STL
+- Wavefront .obj
+- OpenSCAD
+
 ## Resources
 ### File Formats
 - https://en.wikipedia.org/wiki/Wavefront_.obj_file
